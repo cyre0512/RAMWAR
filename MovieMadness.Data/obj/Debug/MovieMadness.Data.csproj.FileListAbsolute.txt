@@ -1,0 +1,83 @@
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll.config
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.pdb
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.pdb
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.pdb
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.first.resources
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csproj.GenerateResource.Cache
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.Added_Rating_Rating_and_enum_Rating.resources
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.imageprop.resources
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.first.resources
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.Added_Rating_Rating_and_enum_Rating.resources
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.imageprop.resources
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csproj.GenerateResource.Cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.removed_some_migration_files.resources
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.removed_some_migration_files.resources
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll.config
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.pdb
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.pdb
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.xml
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csprojResolveAssemblyReference.cache
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.first.resources
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.Added_Rating_Rating_and_enum_Rating.resources
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.imageprop.resources
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.removed_some_migration_files.resources
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csproj.GenerateResource.Cache
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.dll
+C:\Users\Trio DaVinci\Desktop\Coder Camps Projects\march2camp\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.pdb
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll.config
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Data.pdb
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\MovieMadness.Model.pdb
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csprojResolveAssemblyReference.cache
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.first.resources
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.Added_Rating_Rating_and_enum_Rating.resources
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.imageprop.resources
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.Migrations.removed_some_migration_files.resources
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.csproj.GenerateResource.Cache
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.dll
+E:\Users\EJ\Documents\Visual Studio 2013\Projects\MovieMadness\MovieMadness.Data\obj\Debug\MovieMadness.Data.pdb

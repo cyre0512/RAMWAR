@@ -1,0 +1,19 @@
+﻿@model MovieMadness.Model.Actor
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Actor Details</h1>
+<div class="well">
+    <h3>@Model.Name</h3>
+    
+    @foreach (var m in Model.MovieActors) 
+    {
+        <h4>@m.Movie.Title</h4>
+        <h4>@m.Movie.Year</h4>
+        
+        
+        @Html.ActionLink("Movie Details", "Details", "HomeController", new { id = Model.ActorId }, new { @class = "btn btn-primary" })
+        
+    }
+</div>

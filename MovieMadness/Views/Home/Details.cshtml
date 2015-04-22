@@ -1,0 +1,35 @@
+﻿@model MovieMadness.Model.Movie
+<br />
+@{
+    ViewBag.Title = "Details";
+}
+
+<h1>Movie Details:</h1>
+
+<div class="well">
+    <img src= "@Model.Thumbnail" width="500" height="500" />
+    <h2>@Model.Title</h2>
+    
+    <h4>@Model.Rating</h4>
+    <h5>(@Model.Year)</h5>
+    <h3>@Model.Genre</h3>
+
+    @Html.ActionLink("Edit Movie", "EditMovie", "Home", new { id = Model.MovieId }, new { @class = "btn btn-primary" })
+    @Html.ActionLink("Index", "Index", null, new { @class = "btn btn-primary" })
+
+    <br /> <br />
+    @Html.ActionLink("Add Review", "AddReview", "Reviews", new { id = Model.MovieId }, new { @class = "btn btn-primary" })
+    @Html.ActionLink("List of Reviews", "Index", "Reviews", null, new { @class = "btn btn-primary" })
+
+
+</div>
+
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />
+@*
+    <h3>Actors:</h3>
+    @foreach (var r in Model.Actor)
+    {
+        <h4>@r.Name</h4>
+    }
+    <br />
+*@

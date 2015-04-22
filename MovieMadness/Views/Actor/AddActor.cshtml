@@ -1,0 +1,14 @@
+﻿@model MovieMadness.Model.Actor
+
+<h1>@ViewBag.Message</h1>
+
+<form method="post">
+    <div class="well">
+        <h4>@Html.LabelFor(x => x.Name): @Html.TextBoxFor(x => x.Name)</h4>
+
+        @Html.HiddenFor(x => x.MovieId)
+
+        <button class="btn btn-default">Submit</button>
+    </div>
+</form>
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />

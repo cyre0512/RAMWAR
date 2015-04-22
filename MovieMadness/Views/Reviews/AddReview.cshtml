@@ -1,0 +1,18 @@
+﻿@model MovieMadness.Model.Review
+<h1>@ViewBag.Message</h1>
+
+<form method="post">
+    <div class="well">
+        <h2>Review</h2>
+            Write your review here.
+            <h4 style="font-weight:normal;">@Html.TextAreaFor(x => x.Post)</h4>
+        <hr>
+        <h2>Rating</h2>
+            (Please rate from 1-10)
+            <h5>@Html.TextBoxFor(x => x.Rating)</h5>
+            @Html.HiddenFor(x => x.MovieId)
+            @Html.HiddenFor(x => x.ReviewId)
+            <button class="btn btn-default">Submit</button>
+</div>
+</form>
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />

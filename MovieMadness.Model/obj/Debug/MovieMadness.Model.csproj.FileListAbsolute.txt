@@ -1,0 +1,28 @@
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.dll.config
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.pdb
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.dll
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.pdb
+C:\Users\Sid\Source\Workspaces\march2camp\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.dll.config
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\MovieMadness.Model.pdb
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.csprojResolveAssemblyReference.cache
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.dll
+C:\Users\S\Documents\Visual Studio 2013\Projects\MovieMadness(2)\MovieMadness\MovieMadness.Model\obj\Debug\MovieMadness.Model.pdb

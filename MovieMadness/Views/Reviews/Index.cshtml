@@ -1,0 +1,44 @@
+﻿@model List<MovieMadness.Model.Movie>
+<h1>Reviews</h1>
+
+@foreach (var m in Model)
+{
+    <div class="well">
+        <h2>@m.Title</h2> <br /> @Html.ActionLink("Add Review", "AddReview", new { id = m.MovieId }, new { @class = "btn btn-default" })
+        <br /> 
+        <div class="reviewwell">
+            <table class="table table-bordered">
+
+                <tbody>
+                    @foreach (var r in m.Reviews)
+                    {
+
+                        
+                        <tr>
+                            @*<td>@r.ReviewId</td>*@
+                            <td><strong style="color:#C31118;">Submitted:</strong> @r.DatePosted</td>
+
+                        </tr>
+                        <tr>
+                            <td style="font-size:18px;">@r.Post</td>
+                        </tr>
+                        <tr>
+                           <td><h2><strong>Rating:</strong> @r.Rating <strong style="color:#C31118;">/10</strong></h2></td>
+                        </tr>
+                        <tr>
+                            <td>
+                                @Html.ActionLink(" Edit ", "EditReview", new { id = r.ReviewId },new { @class = "btn btn-default" })
+                                @Html.ActionLink(" Delete ", "DeleteReview", new { id = r.ReviewId }, new { @class = "btn btn-danger" })
+                                <hr>
+                            </td>
+                            
+                        </tr>
+                        
+
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+}
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />

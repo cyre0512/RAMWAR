@@ -1,0 +1,27 @@
+﻿@model List<MovieMadness.Model.Movie>
+<br />
+
+@Html.ActionLink("Add Movie", "AddMovie", "Home", new { @class = "btn btn-lg btn-default" })
+
+
+@foreach (var r in Model)
+{
+    <div class="well">
+        <div class="movieinfowrapper">
+            @if (@r.Thumbnail != "" || @r.Thumbnail != null)
+            {
+                <div class="moviethumbwrapper">
+                    <img src="@r.Thumbnail" height="255" width="255" />
+                </div>
+            }
+        </div>
+
+
+        <h2>@r.Title</h2>
+        <h4>(@r.Year)</h4>
+        @Html.ActionLink("Details", "Details", new { id = r.MovieId }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Delete Movie", "DeleteMovie", "Home", new { id = r.MovieId }, new { @class = "btn btn-default btn-danger" })
+    
+    </div>
+}
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />

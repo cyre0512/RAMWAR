@@ -1,0 +1,42 @@
+﻿@model MovieMadness.Model.Movie
+           <br />
+<h1>AddMovie</h1>
+<form method="post">
+    <div class="fluid">
+        <table class="table">
+            
+                <tr>
+                    <th><h4>Title</h4></th>
+                    <th><h4>Year</h4></th>
+                    <th><h4>Rating</h4></th>
+                    <th><h4>Genre</h4></th>
+                </tr>
+            
+            <tr>
+                <td>
+                    
+                    @Html.TextBoxFor(x => x.Title)
+                </td>
+                <td>
+                    
+                    @Html.TextBoxFor(x => x.Year)
+                </td>
+                <td>
+                    
+                    @Html.EnumDropDownListFor(x => x.Rating)
+                </td>
+                <td>
+                   
+                    @Html.EnumDropDownListFor(x => x.Genre)
+                </td>
+
+            </tr>
+           
+    </table>
+        </div>
+    @Html.HiddenFor( x => x.MovieId)
+
+    <button type="submit" class="btn btn-default">Submit</button>
+</form>
+
+<link href="~/Content/superhero.bootstrap.css" rel="stylesheet" />
